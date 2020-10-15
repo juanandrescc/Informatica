@@ -1,0 +1,4 @@
+Las funciones
+	- Encapsula funcionalidad
+	- abstracción
+el archivo DOM significa document of movent

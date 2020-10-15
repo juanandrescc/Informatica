@@ -1,0 +1,45 @@
+Javascript
+-Variables
+-Condicionales
+-Bucles
+-Operadores
+-Estructura de datos 
+
+
+VARIABLES
+Para definir:
+	let variable = valor
+Para imprimir:
+	console.log(variable)
+
+OPERADORES
+x+y (suma)
+x-y(resta)
+x*y(multiplicación)
+x/y(división)
+x%y (Modulo, da residuo)
+Operadores LOGICOS
+	let x=true (condicion)
+	let y=false (condicion)
+	x||y (or)
+	x&&y (y)
+	!x (negacion)
+	><(menor y mayor)
+Concatenar = unir dos cadenas de caracteres
+
+CONDICIONAL
+if(x==variable){
+	accion si se cumple;
+}
+else{
+	accion si no se cumple;
+}
+
+COMO PEDIR UN NUMERO A UN USUARIO?
+let x=pront("mensaje")
+
+BUCLES
+	for
+	while
+	do 	
+	do while
